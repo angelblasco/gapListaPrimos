@@ -1,9 +1,4 @@
-###################################
-## Funcion que genera una lista con los 
-## numeros primos desde 1 hasta n
-## ademas guarda en un fichero de texto
-## la salida obtenida
-###################################
+﻿###################################
 ## Angel Blasco Muñoz
 ## 11 de mayo de 2017
 ###################################
